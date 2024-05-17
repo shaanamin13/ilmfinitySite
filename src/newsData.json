@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Breaking News",
+      "description": "This is a breaking news article.",
+      "imageUrl": "https://via.placeholder.com/150",
+      "source": "News Source 1"
+    },
+    {
+      "title": "Latest Update",
+      "description": "This is the latest update on current events.",
+      "imageUrl": "https://via.placeholder.com/150",
+      "source": "News Source 2"
+    },
+    {
+      "title": "Interesting Story",
+      "description": "Here's an interesting story you don't want to miss.",
+      "imageUrl": "https://via.placeholder.com/150",
+      "source": "News Source 3"
+    }
+  ]
+  
