@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>EvoCreo 2</title>
+  <release-date>2024</release-date>
+  <website>evocreo2.com</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+<platforms>
+  <platform>
+    <name>Android</name>
+    <link>https://play.google.com/store/apps/details?id=ilmfinity.evocreo.main.android</link>
+  </platform>
+  <platform>
+    <name>iOS</name>
+    <link>https://apps.apple.com/us/app/evocreo-pocket-monster-like/id918997182</link>
+  </platform>
+</platforms>
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>TBD</value>
+    </price>
+  </prices>
+
+  <description>
+"EvoCreo" immerses players into a captivating world where they embark on an epic journey as Creo Tamers, masters of enigmatic creatures known as Creo. Set in the vast and diverse region of Zenith, players traverse lush forests, treacherous mountains, and enigmatic ruins, encountering a plethora of Creo species along the way.
+
+In this enthralling RPG adventure, players capture, train, and battle with over 130 unique Creo species, each possessing their own distinct traits, abilities, and evolutions. As Tamers, players hone their skills and strategic prowess in turn-based battles, where tactics, synergy, and resourcefulness determine victory.
+
+The game's rich narrative unfolds as players uncover the mysteries of Zenith, encountering rival Tamers, enigmatic organizations, and legendary Creo. Alongside their loyal companions, players unravel conspiracies, forge alliances, and confront formidable adversaries on their quest to become the ultimate Creo Champion.
+
+With stunning visuals, immersive gameplay, and a compelling storyline, "EvoCreo" offers a captivating experience for players of all ages. Whether exploring the vast landscapes of Zenith, engaging in thrilling battles, or unraveling the secrets of Creo, every moment in "EvoCreo" is an adventure waiting to be discovered. Embark on a journey like no other and discover the bonds that unite Tamers and Creo in the world of "EvoCreo."</description>
+
+
+  <!-- Choose between a single block: -->
+  <history></history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+<features>
+  <feature>Over 130 unique Creo to capture and train</feature>
+  <feature>Engaging turn-based battles with strategic depth</feature>
+  <feature>Expansive open world with diverse environments</feature>
+  <feature>Intriguing storyline with numerous side quests</feature>
+  <feature>Regular updates with new content and features</feature>
+  <feature>Seamless multiplayer battles and trading system</feature>
+  <feature>Cross-platform cloud saving for uninterrupted gameplay</feature>
+  <feature>Stunning graphics and immersive sound design</feature>
+</features>
+
+  <trailers>
+    <trailer>
+      <name>EvoCreo</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        BASw7bLZURo
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <credits>
+    <credit>
+      <person></person>
+      <role></role>
+
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name></name>
+
+      <!-- Pick one: -->
+      <mail></mail>
+      <link></link>
+    </contact>
+  </contacts>
+</product>
